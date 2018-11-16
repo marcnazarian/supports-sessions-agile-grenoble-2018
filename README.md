@@ -13,6 +13,11 @@
 [Titre](http://url-des-slides) - Orateur  ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
 
+[Lego Team Wars](./assets/slides/lego-team-wars/) - Laurent Eyraud ([@EyraudLaurent](https://twitter.com/@EyraudLaurent)) et Marc Nazarian ([@MarcNazarian](https://twitter.com/@MarcNazarian)) 
+
+
+https://agilegrenoble2018.sched.com/event/G4r2/lego-team-wars-lequipe-contre-attaque
+
 
 ## Journée du jeudi 15 novembre 2018
 
