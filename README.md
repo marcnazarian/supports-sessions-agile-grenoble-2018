@@ -27,6 +27,7 @@
 
 [Intégrer l'ergonomie en milieu agile : plus compliqué qu'il n'y parait](./assets/slides/UX_en_milieu_agile_MargauxPerrin_AgileGrenoble.pdf) - Margaux Perrin ([@Margauxlergo](https://twitter.com/@Margauxlergo)) 
 
+[Manuel pratique de sabotage de transition devops](./assets/slides/Sabootaaage_2018_v3.pdf) - Alain Delafosse ([@AlainDELAFOSSE](https://twitter.com/@AlainDELAFOSSE))
 
 
 [Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
