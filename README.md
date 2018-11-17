@@ -17,9 +17,7 @@
 
 [Help! Ma mère est un coach agile](./assets/slides/HELP_Ma_mere_est_un_coach_agile.pdf) - Vanessa Humphreys
 
-[TDD : la base pour faire du développement agile](./assets/slides/TDD_Agile_Grenoble_2018.pdf) - Xavier Nopre ([@xnopre](https://twitter.com/@xnopre))
-
-Code source : https://github.com/xnopre/tdd-demos/tree/tdd.agile-grenoble.2018
+[TDD : la base pour faire du développement agile](./assets/slides/TDD_Agile_Grenoble_2018.pdf) - Xavier Nopre ([@xnopre](https://twitter.com/@xnopre)) + code source : https://github.com/xnopre/tdd-demos/tree/tdd.agile-grenoble.2018
 
 
 [Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
