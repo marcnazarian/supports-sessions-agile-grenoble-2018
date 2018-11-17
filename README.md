@@ -23,11 +23,10 @@
 
 [Améliorez-vous qu’ils disaient !](./assets/slides/Ameliorez-vous-qu-ils-disaient.pdf) - Adrien Chantôme ([@AdrienChantome](https://twitter.com/AdrienChantome)) et Nicolas Thibert ([@ThibertNicolas](https://twitter.com/@ThibertNicolas))
 
+[Etre agile en pleine pente](./assets/slides/agile-en-pleine-pentes.ppt) - Remi Engelbrecht
 
 
 
-
-[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
 [Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
