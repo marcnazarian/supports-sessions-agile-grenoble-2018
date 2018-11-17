@@ -35,7 +35,7 @@
 
 [Lego Team Wars](./assets/slides/lego-team-wars/) - Laurent Eyraud ([@EyraudLaurent](https://twitter.com/@EyraudLaurent)) et Marc Nazarian ([@MarcNazarian](https://twitter.com/@MarcNazarian)) 
 
-[Être un leader dans un monde agile](http://url-des-slides) - Marion FERLIN et Matthew Richter ([@MatthewSRichter](https://twitter.com/MatthewSRichter))
+[Être un leader dans un monde agile](./assets/slides/14_conseils_pour_Leaders.pdf) - Marion FERLIN et Matthew Richter ([@MatthewSRichter](https://twitter.com/MatthewSRichter))
 
 [Les 10 secrets pour bien (re)démarrer dans l'agilité (et qui m'ont souvent sauvé)](./assets/slides/2018.10.secrets.pdf) - Aurélien Morvant ([@AurelienMorvant](https://twitter.com/@AurelienMorvant)) 
 
