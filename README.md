@@ -8,7 +8,7 @@
 
 [Intelligence émotionnelle, comment développer son agilité ?](./assets/slides/agilite_emotionnelle_ca_existe_CODEVAC.pdf) - Emmanuelle LE BRIS et Philippe CHIRADE
 
-[Politique, politique, politique - Gérer vos relations professionnelles au travail](./assets/slides/12_Secrets_for_Navigating_Politics.pdf) - Matthew Richter ([@MatthewSRichter](https://twitter.com/MatthewSRichter))
+[Politique, politique, politique - Gérer vos relations professionnelles au travail](./assets/slides/12_Secrets_for_Navigating_Politics.pdf) - Matthew Richter ([@MatthewSRichter](https://twitter.com/MatthewSRichter)) et Marion Ferlin
 
 
 ## Sessions :
@@ -33,13 +33,20 @@
 
 [Tour de gare réussi pour DIGISITE (SNCF) grâce à l'agilité](./assets/slides/Conference_Agilite_DGIF_G_C.pptx) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)), William Anton et Vincent Chevalier
 
-[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
-
-
-
-
 [Lego Team Wars](./assets/slides/lego-team-wars/) - Laurent Eyraud ([@EyraudLaurent](https://twitter.com/@EyraudLaurent)) et Marc Nazarian ([@MarcNazarian](https://twitter.com/@MarcNazarian)) 
 
+[Être un leader dans un monde agile](http://url-des-slides) - Marion FERLIN et Matthew Richter ([@MatthewSRichter](https://twitter.com/MatthewSRichter))
+
+[Les 10 secrets pour bien (re)démarrer dans l'agilité (et qui m'ont souvent sauvé)](./assets/slides/2018.10.secrets.pdf) - Aurélien Morvant ([@AurelienMorvant](https://twitter.com/@AurelienMorvant)) 
+
+
+
+
+[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
+
+[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
+
+[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
 ## Journée du jeudi 15 novembre 2018
 
