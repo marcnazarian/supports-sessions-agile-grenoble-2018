@@ -15,6 +15,8 @@
 
 [Agilité pour les Nuls](./slides/agilitepourlesnuls-2018.pdf) - Laurent Gay
 
+[Revoir du code : grandeurs, décadence et apprentissage](./slides/Revoir_du_code.pdf) - Manuel Vacelet ([@vaceletm](https://twitter.com/@vaceletm))
+
 [Help! Ma mère est un coach agile](./slides/HELP_Ma_mere_est_un_coach_agile.pdf) - Vanessa Humphreys
 
 [TDD : la base pour faire du développement agile](./slides/TDD_Agile_Grenoble_2018.pdf) - Xavier Nopre ([@xnopre](https://twitter.com/@xnopre)) + code source : https://github.com/xnopre/tdd-demos/tree/tdd.agile-grenoble.2018
