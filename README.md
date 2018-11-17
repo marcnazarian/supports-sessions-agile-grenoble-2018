@@ -25,10 +25,9 @@
 
 [Etre agile en pleine pente](./assets/slides/agile-en-pleine-pentes.ppt) - Remi Engelbrecht
 
+[Intégrer l'ergonomie en milieu agile : plus compliqué qu'il n'y parait](./assets/slides/UX_en_milieu_agile_MargauxPerrin_AgileGrenoble.pdf) - Margaux Perrin ([@Margauxlergo](https://twitter.com/@Margauxlergo)) 
 
 
-
-[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
 [Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
