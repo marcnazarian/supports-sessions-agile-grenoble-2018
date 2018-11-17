@@ -19,8 +19,10 @@
 
 [TDD : la base pour faire du développement agile](./assets/slides/TDD_Agile_Grenoble_2018.pdf) - Xavier Nopre ([@xnopre](https://twitter.com/@xnopre)) + code source : https://github.com/xnopre/tdd-demos/tree/tdd.agile-grenoble.2018
 
+[L’agilité entre perruque de Monsieur Jourdain et casque de chantier](./assets/slides/2018-Agile-Grenoble-Monsieur-Jourdain-V4.pdf) - Didier Lebouc ([@dlebouc](https://twitter.com/dlebouc)) 
 
-[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
+
+
 
 [Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
