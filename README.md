@@ -31,7 +31,7 @@
  
 [Pour réussir vos ateliers, devenez facilitateur](./assets/slides/Pour_reussir_vos_ateliers_devenez_facilitateur.pdf) - Grégory Alexandre ([@gregalexandre](https://twitter.com/@gregalexandre)) et Isabelle Gauthier ([@I_Gauthier](https://twitter.com/@I_Gauthier))
 
-[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
+[Tour de gare réussi pour DIGISITE (SNCF) grâce à l'agilité](./assets/slides/Conférence_Agilite_DGIF_G_C.pptx) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)), William Anton et Vincent Chevalier
 
 [Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
