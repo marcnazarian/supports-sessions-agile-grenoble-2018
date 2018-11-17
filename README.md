@@ -21,7 +21,7 @@
 
 [L’agilité entre perruque de Monsieur Jourdain et casque de chantier](./assets/slides/2018-Agile-Grenoble-Monsieur-Jourdain-V4.pdf) - Didier Lebouc ([@dlebouc](https://twitter.com/dlebouc)) 
 
-[Améliorez-vous qu’ils disaient !](./assets/slides/Ameliorez-vous-qu-ils-disaient.pdf) - Adrien Chantôme ([@AdrienChantome](https://twitter.com/AdrienChantome)) et Nicolas Thibert ([@@ThibertNicolas](https://twitter.com/@ThibertNicolas))
+[Améliorez-vous qu’ils disaient !](./assets/slides/Ameliorez-vous-qu-ils-disaient.pdf) - Adrien Chantôme ([@AdrienChantome](https://twitter.com/AdrienChantome)) et Nicolas Thibert ([@ThibertNicolas](https://twitter.com/@ThibertNicolas))
 
 
 
