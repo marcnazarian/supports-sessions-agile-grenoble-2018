@@ -42,20 +42,20 @@
 
 
 
-[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
-
-[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
-
-[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
 ## Journée du jeudi 15 novembre 2018
 
 ## Keynotes :
 
-[Titre](http://url-des-slides) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
+[Titre](./assets/slides/) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
+
 
 ## Sessions :
 
-[Titre](http://url-des-slides) - Orateur  ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
+[Titre](./assets/slides/) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
+
+[Titre](./assets/slides/) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
+
+[Titre](./assets/slides/) - Orateur ([@twitter-orateur](https://twitter.com/@twitter-orateur)) 
 
 
