@@ -55,6 +55,8 @@
 
 [Management 3.0, des pratiques faciles et pas chères pour booster vos équipes](./slides/Managent_3.0.pdf) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)) 
 
+[Les tests comme simplificateur de code](https://speakerdeck.com/martinsson/how-tests-simplify-code) - Johan Martinsson ([@johan_alps](https://twitter.com/@johan_alps))
+ 
 [Kanban pour l'infra: le démarrage](./slides/Kanban_infra_rc4.pdf) - Alain Delafosse ([@AlainDELAFOSSE](https://twitter.com/@AlainDELAFOSSE))
 
 [Des standups efficaces, pas si simple ...](./slides/Viveris-Standup-efficaces-pas-si-simple.pdf) - Adrien Chantôme ([@AdrienChantome](https://twitter.com/AdrienChantome)) et Nicolas Thibert ([@ThibertNicolas](https://twitter.com/@ThibertNicolas))
