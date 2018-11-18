@@ -55,6 +55,8 @@
 
 [Don't walk in my shu(s)!](./slides/Don_t_walk_in_my_shu-s-.pdf) - Xavier RENE-CORAIL ([@XCorail](https://twitter.com/@XCorail)) 
 
+[Développez l’intelligence collective de vos équipes avec les “Liberating Structures”](./slides/Agile_Grenoble-Developpez_l_intelligence_collective_de_vos_equipes_avec_les_Liberating_Structures.pdf) - Anne Gabrillagues ([@agabrillagues](https://twitter.com/@agabrillagues)) 
+ 
 [Management 3.0, des pratiques faciles et pas chères pour booster vos équipes](./slides/Managent_3.0.pdf) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)) 
 
 [Les tests comme simplificateur de code](https://speakerdeck.com/martinsson/how-tests-simplify-code) - Johan Martinsson ([@johan_alps](https://twitter.com/@johan_alps))
@@ -66,6 +68,8 @@
 [Entre réalité et perception : est-ce si important d'avoir raison ?](./slides/Entre_realite_et_perception_est-ce_si_important_d_avoir_raison.pdf) - Olivier MY ([@OyoMy](https://twitter.com/@OyoMy)) 
 
 [Si à 40 ans on n'est pas Manager c'est qu'on a raté sa vie !](./slides/Si_a_40_ans_on_n_est_pas_Manager_c_est_qu_on_a_rate_sa_vie.pdf) - Vanessa Humphreys
+
+[ Penser autrement l'expression du besoin avec les Job Stories](./slides/Agile_Grenoble-Job_stories.pdf) - Anne Gabrillagues ([@agabrillagues](https://twitter.com/@agabrillagues)) 
 
 [Product Owners, et si on se posait les bonnes questions](./slides/Product_Owners_et_si_on_se_posait_les_bonnes_questions.pdf) - Grégory Alexandre ([@gregalexandre](https://twitter.com/@gregalexandre))
 
