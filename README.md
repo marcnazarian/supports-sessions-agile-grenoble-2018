@@ -46,6 +46,17 @@
 
 
 
+## Soirée du mercredi 14 novembre 2018
+
+## Ateliers :
+
+[ Buy a game pour facilitateurs !](./slides/PetitsJeuxDeFacilitation.pdf) - Emmanuel HERVE ([@ehervepro](https://twitter.com/@ehervepro)) 
+
+[Weekend escape, priorisation et ordonnancement](./slides/Weekend_Escape_an_agile_backlog_management_game-French-V1.1.pdf) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)) 
+
+
+
+
 
 ## Journée du jeudi 15 novembre 2018
 
@@ -69,6 +80,8 @@
 
 [Entre réalité et perception : est-ce si important d'avoir raison ?](./slides/Entre_realite_et_perception_est-ce_si_important_d_avoir_raison.pdf) - Olivier MY ([@OyoMy](https://twitter.com/@OyoMy)) 
 
+[Mon premier train SAFe](./slides/Mon_premier_train_SAFe-Johan_Bonneau.pdf) - Johan Bonneau ([@JohanBonneau](https://twitter.com/@JohanBonneau))
+ 
 [Si à 40 ans on n'est pas Manager c'est qu'on a raté sa vie !](./slides/Si_a_40_ans_on_n_est_pas_Manager_c_est_qu_on_a_rate_sa_vie.pdf) - Vanessa Humphreys
 
 [ Penser autrement l'expression du besoin avec les Job Stories](./slides/Agile_Grenoble-Job_stories.pdf) - Anne Gabrillagues ([@agabrillagues](https://twitter.com/@agabrillagues)) 
