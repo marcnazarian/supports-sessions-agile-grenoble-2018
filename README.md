@@ -96,6 +96,8 @@
 
 [Penser autrement l'expression du besoin avec les Job Stories](./slides/Agile_Grenoble-Job_stories.pdf) - Anne Gabrillagues ([@agabrillagues](https://twitter.com/@agabrillagues)) 
 
+[Entrer dans la grande aventure des Lego®](./slides/Entrer_dans_la_grande_aventure_des_Lego-AG.pdf) - Amina NEGGACHE et Laura PISKOROWSKI
+ 
 [Apprendre à se poser des questions sur son Kanban, les stratégies à connaître](./slides/Apprendre_a_se_poser_des_questions_sur_son_systeme_Kanban.pdf) - Romain Couturier ([@romaincouturier](https://twitter.com/@romaincouturier))
 
 [Product Owners, et si on se posait les bonnes questions](./slides/Product_Owners_et_si_on_se_posait_les_bonnes_questions.pdf) - Grégory Alexandre ([@gregalexandre](https://twitter.com/@gregalexandre))
