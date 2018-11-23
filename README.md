@@ -27,6 +27,8 @@
 
 [L’agilité entre perruque de Monsieur Jourdain et casque de chantier](./slides/2018-Agile-Grenoble-Monsieur-Jourdain-V4.pdf) - Didier Lebouc ([@dlebouc](https://twitter.com/dlebouc)) 
 
+[Pratiques agiles... peut-on faire son marché ou faut-il toutes les appliquer ? Quels risques à renoncer à une ou plusieurs pratiques](https://schd.ws/hosted_files/agilegrenoble2018/2a/PracticesMarket.zip) - Jean Dupuis ([@jidup](https://twitter.com/jidup)) et Emmanuel HERVE ([@ehervepro](https://twitter.com/ehervepro))
+
 [Améliorez-vous qu’ils disaient !](./slides/Ameliorez-vous-qu-ils-disaient.pdf) - Adrien Chantôme ([@AdrienChantome](https://twitter.com/AdrienChantome)) et Nicolas Thibert ([@ThibertNicolas](https://twitter.com/@ThibertNicolas))
 
 [Etre agile en pleine pente](./slides/agile-en-pleine-pentes.ppt) - Remi Engelbrecht
