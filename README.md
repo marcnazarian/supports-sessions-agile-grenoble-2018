@@ -103,3 +103,5 @@
 [Product Owners, et si on se posait les bonnes questions](./slides/Product_Owners_et_si_on_se_posait_les_bonnes_questions.pdf) - Grégory Alexandre ([@gregalexandre](https://twitter.com/@gregalexandre))
 
 [La DRH du futur sera agile ou ne sera pas](https://schd.ws/hosted_files/agilegrenoble2018/f2/RH%20AGILE%20GRENOBLE%2018_V1.2.pdf) - Nicolas Kalmanovitz ([@KalmanovitzN](https://twitter.com/@KalmanovitzN))
+
+[Scale Me Please: Design Pattern de Microservices](./slides/AgileGrenoble_ScaleMePlease.pdf) - Pierrick Rassat ([@Pierrick_Rassat](https://twitter.com/Pierrick_Rassat) et Michel Barret
