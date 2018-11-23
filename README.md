@@ -31,6 +31,8 @@
 
 [Améliorez-vous qu’ils disaient !](./slides/Ameliorez-vous-qu-ils-disaient.pdf) - Adrien Chantôme ([@AdrienChantome](https://twitter.com/AdrienChantome)) et Nicolas Thibert ([@ThibertNicolas](https://twitter.com/@ThibertNicolas))
 
+[De la spec de Cro-Magnon à l’US 2.0](./slides/SpecDeCroMagnonVSUserStory_2018.pdf) - Frédéric DROGO et Isabelle Garnier
+ 
 [Etre agile en pleine pente](./slides/agile-en-pleine-pentes.ppt) - Remi Engelbrecht
 
 [Intégrer l'ergonomie en milieu agile : plus compliqué qu'il n'y parait](./slides/UX_en_milieu_agile_MargauxPerrin_AgileGrenoble.pdf) - Margaux Perrin ([@Margauxlergo](https://twitter.com/@Margauxlergo)) 
