@@ -19,6 +19,8 @@
 
 [Help! Ma mère est un coach agile](./slides/HELP_Ma_mere_est_un_coach_agile.pdf) - Vanessa Humphreys
 
+[Et si avant de commencer, on prenait le temps de se donner une cible ?](./slides/Voyage_dans_l_espace.pptx) - Stéphanie Lesaffre et Andréane Vuillamy ([@AVuillamy](https://twitter.com/AVuillamy)) 
+
 [TDD : la base pour faire du développement agile](./slides/TDD_Agile_Grenoble_2018.pdf) - Xavier Nopre ([@xnopre](https://twitter.com/@xnopre)) + code source : https://github.com/xnopre/tdd-demos/tree/tdd.agile-grenoble.2018
 
 [L’agilité entre perruque de Monsieur Jourdain et casque de chantier](./slides/2018-Agile-Grenoble-Monsieur-Jourdain-V4.pdf) - Didier Lebouc ([@dlebouc](https://twitter.com/dlebouc)) 
