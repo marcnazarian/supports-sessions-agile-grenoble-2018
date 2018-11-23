@@ -21,6 +21,8 @@
 
 [Et si avant de commencer, on prenait le temps de se donner une cible ?](https://schd.ws/hosted_files/agilegrenoble2018/9b/Voyage%20dans%20l%27espace.pptx) - Stéphanie Lesaffre et Andréane Vuillamy ([@AVuillamy](https://twitter.com/AVuillamy)) 
 
+[Retrospectez vous ! Rien ne vaut la pratique !](https://schd.ws/hosted_files/agilegrenoble2018/02/Retrospectez%20vous.ppt) - Maxime Darey ([@DareyMaxime](https://twitter.com/DareyMaxime)), Isabelle Garnier et Fabien Joseph
+
 [TDD : la base pour faire du développement agile](./slides/TDD_Agile_Grenoble_2018.pdf) - Xavier Nopre ([@xnopre](https://twitter.com/@xnopre)) + code source : https://github.com/xnopre/tdd-demos/tree/tdd.agile-grenoble.2018
 
 [L’agilité entre perruque de Monsieur Jourdain et casque de chantier](./slides/2018-Agile-Grenoble-Monsieur-Jourdain-V4.pdf) - Didier Lebouc ([@dlebouc](https://twitter.com/dlebouc)) 
