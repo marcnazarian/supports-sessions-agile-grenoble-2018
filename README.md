@@ -19,7 +19,7 @@
 
 [Help! Ma mère est un coach agile](./slides/HELP_Ma_mere_est_un_coach_agile.pdf) - Vanessa Humphreys
 
-[Et si avant de commencer, on prenait le temps de se donner une cible ?](./slides/Voyage_dans_l_espace.pptx) - Stéphanie Lesaffre et Andréane Vuillamy ([@AVuillamy](https://twitter.com/AVuillamy)) 
+[Et si avant de commencer, on prenait le temps de se donner une cible ?](https://schd.ws/hosted_files/agilegrenoble2018/9b/Voyage%20dans%20l%27espace.pptx) - Stéphanie Lesaffre et Andréane Vuillamy ([@AVuillamy](https://twitter.com/AVuillamy)) 
 
 [TDD : la base pour faire du développement agile](./slides/TDD_Agile_Grenoble_2018.pdf) - Xavier Nopre ([@xnopre](https://twitter.com/@xnopre)) + code source : https://github.com/xnopre/tdd-demos/tree/tdd.agile-grenoble.2018
 
