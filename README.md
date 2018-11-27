@@ -68,7 +68,7 @@
 
 [Weekend escape, priorisation et ordonnancement](./slides/Weekend_Escape_an_agile_backlog_management_game-French-V1.1.pdf) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)) 
 
-
+[Le pas japonais : un escape game collaboratif pour résoudre un problème complexe](https://www.slideshare.net/plopMaker/le-pas-japonais) - Benjmain Cabanne ([@plopMaker](https://twitter.com/plopMaker))
 
 
 
