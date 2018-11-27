@@ -68,7 +68,7 @@
 
 [Weekend escape, priorisation et ordonnancement](./slides/Weekend_Escape_an_agile_backlog_management_game-French-V1.1.pdf) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)) 
 
-[Le pas japonais : un escape game collaboratif pour résoudre un problème complexe](https://www.slideshare.net/plopMaker/le-pas-japonais) - Benjmain Cabanne ([@plopMaker](https://twitter.com/plopMaker))
+[Le pas japonais : un escape game collaboratif pour résoudre un problème complexe](https://www.slideshare.net/plopMaker/le-pas-japonais) - Benjamin Cabanne ([@plopMaker](https://twitter.com/plopMaker))
 
 
 
@@ -91,6 +91,8 @@
 [Les tests comme simplificateur de code](https://speakerdeck.com/martinsson/how-tests-simplify-code) - Johan Martinsson ([@johan_alps](https://twitter.com/@johan_alps))
  
 [Kanban pour l'infra: le démarrage](./slides/Kanban_infra_rc4.pdf) - Alain Delafosse ([@AlainDELAFOSSE](https://twitter.com/@AlainDELAFOSSE))
+
+[Le point de vélocité vide](https://www.slideshare.net/plopMaker/le-point-de-velocite-vide) - Benjamin Cabanne ([@plopMaker](https://twitter.com/plopMaker))
 
 [Des standups efficaces, pas si simple ...](./slides/Viveris-Standup-efficaces-pas-si-simple.pdf) - Adrien Chantôme ([@AdrienChantome](https://twitter.com/AdrienChantome)) et Nicolas Thibert ([@ThibertNicolas](https://twitter.com/@ThibertNicolas))
 
