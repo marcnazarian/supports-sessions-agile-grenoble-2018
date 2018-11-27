@@ -64,6 +64,8 @@
 
 [ Buy a game pour facilitateurs !](./slides/PetitsJeuxDeFacilitation.pdf) - Emmanuel HERVE ([@ehervepro](https://twitter.com/@ehervepro)) 
 
+[kanjis](http://alexis.monville.com/en/blog/2018/03/24/kanjis-at-agile-games-france/) - Alexis Monville ([@alexismonville](https://twitter.com/alexismonville))
+
 [Weekend escape, priorisation et ordonnancement](./slides/Weekend_Escape_an_agile_backlog_management_game-French-V1.1.pdf) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)) 
 
 
