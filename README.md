@@ -76,6 +76,8 @@
 
 ## Keynotes :
 
+[Appreciative inquiry](https://schd.ws/hosted_files/agilegrenoble2018/a5/conf%20agile%20grenoble.ppt) - Jean Christophe Barralis
+
 ## Sessions :
 
 [Les funérailles des méthodes agiles !](https://fr.slideshare.net/agilex/2018-les-funerailles-de-methodes-agiles-slideshare-124188271) - Alexandre Boutin ([@agilex](https://twitter.com/agilex))
