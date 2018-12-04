@@ -82,6 +82,8 @@
 
 [Les funérailles des méthodes agiles !](https://fr.slideshare.net/agilex/2018-les-funerailles-de-methodes-agiles-slideshare-124188271) - Alexandre Boutin ([@agilex](https://twitter.com/agilex))
 
+["C'est quoi la performance web?" et comment se servir de KPI business pour amener une transition vers l'agilité](https://schd.ws/hosted_files/agilegrenoble2018/cb/Perf-agile-gre.pptx) - Jérôme Bourgeon ([@j_bourgeon](https://twitter.com/j_bourgeon))
+
 [Agilité, Design et pensée systémique](./slides/Agilite_design_et_pensee_systemique.pdf) - Fabrice Liut ([@SlaapMe](https://twitter.com/@SlaapMe)) 
 
 [Don't walk in my shu(s)!](./slides/Don_t_walk_in_my_shu-s-.pdf) - Xavier RENE-CORAIL ([@XCorail](https://twitter.com/@XCorail)) 
