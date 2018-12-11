@@ -100,7 +100,7 @@
 
 [Des standups efficaces, pas si simple ...](./slides/Viveris-Standup-efficaces-pas-si-simple.pdf) - Adrien Chantôme ([@AdrienChantome](https://twitter.com/AdrienChantome)) et Nicolas Thibert ([@ThibertNicolas](https://twitter.com/@ThibertNicolas))
 
-[Ca pique, ça gratte, ça brûle ... C'est grave docteur ?](https://www.slideshare.net/LaurenceHanot/ca-pique-a-gratte-a-brle-cest-grave-docteur) - Laurence Hanot ([@lolhanot](https/twitter.com/lolhanot))
+[Ca pique, ça gratte, ça brûle ... C'est grave docteur ?](https://www.slideshare.net/LaurenceHanot/ca-pique-a-gratte-a-brle-cest-grave-docteur) - Laurence Hanot ([@lolhanot](https://twitter.com/lolhanot))
 
 [Entre réalité et perception : est-ce si important d'avoir raison ?](./slides/Entre_realite_et_perception_est-ce_si_important_d_avoir_raison.pdf) - Olivier MY ([@OyoMy](https://twitter.com/@OyoMy)) 
 
