@@ -17,7 +17,9 @@
 
 [Revoir du code : grandeurs, décadence et apprentissage](./slides/Revoir_du_code.pdf) - Manuel Vacelet ([@vaceletm](https://twitter.com/@vaceletm))
 
-[Help! Ma mère est un coach agile](./slides/HELP_Ma_mere_est_un_coach_agile.pdf) - Vanessa Humphreys
+[Help! Ma mère est un coach agile (slides)](./slides/HELP_Ma_mere_est_un_coach_agile.pdf) - Vanessa Humphreys
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Help! Ma mère est un coach agile (vidéo)](https://www.youtube.com/watch?v=ihw-2uZMe0c)
+
 
 [Et si avant de commencer, on prenait le temps de se donner une cible ?](https://schd.ws/hosted_files/agilegrenoble2018/9b/Voyage%20dans%20l%27espace.pptx) - Stéphanie Lesaffre et Andréane Vuillamy ([@AVuillamy](https://twitter.com/AVuillamy)) 
 
