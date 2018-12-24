@@ -34,7 +34,10 @@
 
 [Améliorez-vous qu’ils disaient !](./slides/Ameliorez-vous-qu-ils-disaient.pdf) - Adrien Chantôme ([@AdrienChantome](https://twitter.com/AdrienChantome)) et Nicolas Thibert ([@ThibertNicolas](https://twitter.com/@ThibertNicolas))
 
-[Changing Your Team From The Inside](https://www.slideshare.net/alexis/the-change-starts-here-124041906) - Alexis Monville ([@alexismonville](https://twitter.com/alexismonville))
+[Changing Your Team From The Inside (slides)](https://www.slideshare.net/alexis/the-change-starts-here-124041906) - Alexis Monville ([@alexismonville](https://twitter.com/alexismonville))
+
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Changing Your Team From The Inside (vidéo)](https://www.youtube.com/watch?v=_afzdcxPsZk)
+
 
 [De la spec de Cro-Magnon à l’US 2.0](./slides/SpecDeCroMagnonVSUserStory_2018.pdf) - Frédéric DROGO et Isabelle Garnier
  
