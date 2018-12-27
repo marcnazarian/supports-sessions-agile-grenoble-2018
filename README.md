@@ -94,7 +94,10 @@
 
 [Don't walk in my shu(s)!](./slides/Don_t_walk_in_my_shu-s-.pdf) - Xavier RENE-CORAIL ([@XCorail](https://twitter.com/@XCorail)) 
 
-[Développez l’intelligence collective de vos équipes avec les “Liberating Structures”](./slides/Agile_Grenoble-Developpez_l_intelligence_collective_de_vos_equipes_avec_les_Liberating_Structures.pdf) - Anne Gabrillagues ([@agabrillagues](https://twitter.com/@agabrillagues)) 
+[Développez l’intelligence collective de vos équipes avec les “Liberating Structures” (slides)](./slides/Agile_Grenoble-Developpez_l_intelligence_collective_de_vos_equipes_avec_les_Liberating_Structures.pdf) - Anne Gabrillagues ([@agabrillagues](https://twitter.com/@agabrillagues)) 
+
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Développez l’intelligence collective de vos équipes avec les “Liberating Structures” (vidéo)](https://www.youtube.com/watch?v=hq1KNmLBxtI)
+
  
 [Management 3.0, des pratiques faciles et pas chères pour booster vos équipes](./slides/Managent_3.0.pdf) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)) 
 
