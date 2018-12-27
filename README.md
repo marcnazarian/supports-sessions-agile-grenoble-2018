@@ -90,7 +90,10 @@
 
 ## Sessions :
 
-[Les funérailles des méthodes agiles !](https://fr.slideshare.net/agilex/2018-les-funerailles-de-methodes-agiles-slideshare-124188271) - Alexandre Boutin ([@agilex](https://twitter.com/agilex))
+[Les funérailles des méthodes agiles ! (slides)](https://fr.slideshare.net/agilex/2018-les-funerailles-de-methodes-agiles-slideshare-124188271) - Alexandre Boutin ([@agilex](https://twitter.com/agilex))
+
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Les funérailles des méthodes agiles ! (vidéo)](https://www.youtube.com/watch?v=Xlc0kWVn5yw)
+
 
 ["C'est quoi la performance web?" et comment se servir de KPI business pour amener une transition vers l'agilité](https://schd.ws/hosted_files/agilegrenoble2018/cb/Perf-agile-gre.pptx) - Jérôme Bourgeon ([@j_bourgeon](https://twitter.com/j_bourgeon))
 
