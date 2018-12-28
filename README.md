@@ -53,7 +53,10 @@
 
 [Au secours, j’ai perdu mes participants (mon auditoire/mes invités/... ?)](https://schd.ws/hosted_files/agilegrenoble2018/21/Au%20secours.pptx) - Stéphanie Lesaffre et Andréane Vuillamy ([@AVuillamy](https://twitter.com/AVuillamy)) 
  
-[Pour réussir vos ateliers, devenez facilitateur](./slides/Pour_reussir_vos_ateliers_devenez_facilitateur.pdf) - Grégory Alexandre ([@gregalexandre](https://twitter.com/@gregalexandre)) et Isabelle Gauthier ([@I_Gauthier](https://twitter.com/@I_Gauthier))
+[Pour réussir vos ateliers, devenez facilitateur (slides)](./slides/Pour_reussir_vos_ateliers_devenez_facilitateur.pdf) - Grégory Alexandre ([@gregalexandre](https://twitter.com/@gregalexandre)) et Isabelle Gauthier ([@I_Gauthier](https://twitter.com/@I_Gauthier))
+
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Pour réussir vos ateliers, devenez facilitateur (vidéo)](https://www.youtube.com/watch?v=QEhfiZyDM4Y)
+
 
 [Tour de gare réussi pour DIGISITE (SNCF) grâce à l'agilité](./slides/Conference_Agilite_DGIF_G_C.pptx) - Maxime Bonnet ([@maximebonnet](https://twitter.com/@maximebonnet)), William Anton et Vincent Chevalier
 
