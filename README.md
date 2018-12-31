@@ -66,7 +66,9 @@
  
 [Être un leader dans un monde agile](./slides/14_conseils_pour_Leaders.pdf) - Marion FERLIN et Matthew Richter ([@MatthewSRichter](https://twitter.com/MatthewSRichter))
 
-[Les 10 secrets pour bien (re)démarrer dans l'agilité (et qui m'ont souvent sauvé)](./slides/2018.10.secrets.pdf) - Aurélien Morvant ([@AurelienMorvant](https://twitter.com/@AurelienMorvant)) 
+[Les 10 secrets pour bien (re)démarrer dans l'agilité (et qui m'ont souvent sauvé) - slides](./slides/2018.10.secrets.pdf) - Aurélien Morvant ([@AurelienMorvant](https://twitter.com/@AurelienMorvant)) 
+
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Les 10 secrets pour bien (re)démarrer dans l'agilité (et qui m'ont souvent sauvé) (vidéo)](https://www.youtube.com/watch?v=1EXdr6kUkIw)
 
 
 
