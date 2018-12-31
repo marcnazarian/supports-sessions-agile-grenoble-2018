@@ -133,7 +133,10 @@
 
 [Entrer dans la grande aventure des Lego®](./slides/Entrer_dans_la_grande_aventure_des_Lego-AG.pdf) - Amina NEGGACHE et Laura PISKOROWSKI
  
-[Apprendre à se poser des questions sur son Kanban, les stratégies à connaître](./slides/Apprendre_a_se_poser_des_questions_sur_son_systeme_Kanban.pdf) - Romain Couturier ([@romaincouturier](https://twitter.com/@romaincouturier))
+[Apprendre à se poser des questions sur son Kanban, les stratégies à connaître (slides)](./slides/Apprendre_a_se_poser_des_questions_sur_son_systeme_Kanban.pdf) - Romain Couturier ([@romaincouturier](https://twitter.com/@romaincouturier))
+
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Apprendre à se poser des questions sur son Kanban, les stratégies à connaître (vidéo)](https://www.youtube.com/watch?v=ddbXp1r3E8M)
+
 
 [Product Owners, et si on se posait les bonnes questions](./slides/Product_Owners_et_si_on_se_posait_les_bonnes_questions.pdf) - Grégory Alexandre ([@gregalexandre](https://twitter.com/@gregalexandre))
 
