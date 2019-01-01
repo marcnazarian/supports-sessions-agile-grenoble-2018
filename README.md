@@ -127,7 +127,11 @@
 
 [Mon premier train SAFe](./slides/Mon_premier_train_SAFe-Johan_Bonneau.pdf) - Johan Bonneau ([@JohanBonneau](https://twitter.com/@JohanBonneau))
  
-[Si à 40 ans on n'est pas Manager c'est qu'on a raté sa vie !](./slides/Si_a_40_ans_on_n_est_pas_Manager_c_est_qu_on_a_rate_sa_vie.pdf) - Vanessa Humphreys
+[Si à 40 ans on n'est pas Manager c'est qu'on a raté sa vie ! (slides)](./slides/Si_a_40_ans_on_n_est_pas_Manager_c_est_qu_on_a_rate_sa_vie.pdf) - Vanessa Humphreys
+
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Si à 40 ans on n'est pas Manager c'est qu'on a raté sa vie ! (vidéo)](https://www.youtube.com/watch?v=jpjbt-E1EtU)
+
+
 
 [Penser autrement l'expression du besoin avec les Job Stories](./slides/Agile_Grenoble-Job_stories.pdf) - Anne Gabrillagues ([@agabrillagues](https://twitter.com/@agabrillagues)) 
 
