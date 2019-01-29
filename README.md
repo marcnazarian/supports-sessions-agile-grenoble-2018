@@ -12,6 +12,7 @@
 
 
 [Politique, politique, politique - Gérer vos relations professionnelles au travail (slides)](./slides/12_Secrets_for_Navigating_Politics.pdf) - Matthew Richter ([@MatthewSRichter](https://twitter.com/MatthewSRichter)) et Marion Ferlin
+
 ![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Politique, politique, politique - Gérer vos relations professionnelles au travail (vidéo)](https://www.youtube.com/watch?v=cpZAvXQY94I)
 
 
