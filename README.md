@@ -11,7 +11,8 @@
 ![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Intelligence émotionnelle, comment développer son agilité ? (vidéo)](https://www.youtube.com/watch?v=QCu_AQf05c0)
 
 
-[Politique, politique, politique - Gérer vos relations professionnelles au travail](./slides/12_Secrets_for_Navigating_Politics.pdf) - Matthew Richter ([@MatthewSRichter](https://twitter.com/MatthewSRichter)) et Marion Ferlin
+[Politique, politique, politique - Gérer vos relations professionnelles au travail (slides)](./slides/12_Secrets_for_Navigating_Politics.pdf) - Matthew Richter ([@MatthewSRichter](https://twitter.com/MatthewSRichter)) et Marion Ferlin
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Politique, politique, politique - Gérer vos relations professionnelles au travail (vidéo)](https://www.youtube.com/watch?v=cpZAvXQY94I)
 
 
 ## Sessions :
