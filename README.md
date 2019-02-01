@@ -96,7 +96,10 @@
 
 ## Keynotes :
 
-[Appreciative inquiry](https://schd.ws/hosted_files/agilegrenoble2018/a5/conf%20agile%20grenoble.ppt) - Jean Christophe Barralis
+[Appreciative inquiry (slides)](https://schd.ws/hosted_files/agilegrenoble2018/a5/conf%20agile%20grenoble.ppt) - Jean Christophe Barralis
+
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [Appreciative inquiry (vidéo)](https://www.youtube.com/watch?v=pnNhk73K9PY)
+
 
 ## Sessions :
 
