@@ -150,7 +150,7 @@
 [Entrer dans la grande aventure des Lego®](./slides/Entrer_dans_la_grande_aventure_des_Lego-AG.pdf) - Amina NEGGACHE et Laura PISKOROWSKI
 
 
-![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [FGI -Facilitation Graphique Instantanée (vidéo)](https://www.youtube.com/watch?v=TaLkBg9NYxs)
+![](http://www.michelin.co.uk/content/img/newHomepage/social-icons/youtube.png) [FGI -Facilitation Graphique Instantanée (vidéo)](https://www.youtube.com/watch?v=TaLkBg9NYxs) - Aurélien Morvant ([@AurelienMorvant](https://twitter.com/@AurelienMorvant)) 
 
 
 [Apprendre à se poser des questions sur son Kanban, les stratégies à connaître (slides)](./slides/Apprendre_a_se_poser_des_questions_sur_son_systeme_Kanban.pdf) - Romain Couturier ([@romaincouturier](https://twitter.com/@romaincouturier))
